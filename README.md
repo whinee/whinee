@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center">
+    whitespace_negative (whi_ne)
+</h1>
+<p align="center">
+    Yet another <i><s>catfishing highschooler</s></i> aspirant programmer™
+</p>
 
-<!--
-**whinee/whinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3 align="center">
+    <i>
+        Professional stackoverflow scavenger
+    </i>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <strong>Discord:</strong> <a target="_blank" href="https://discord.com/users/867696753434951732">PEP-8 uncompliant one-liner#5135</a>
+</p>
+
+<hr>
+
+<h4 align="center">
+    <i>
+        Python (and only python)
+    </i>
+</h4>
+<h4 align="center">
+    <i>
+        Discord Bots ∙ REST APIs(?) ∙ Web scrapers(???)
+    </i>
+</h4>
+
+<sub>
+    <p align="center">
+        <i>
+            Made by <a target="_blank" href="https://github.com/justfoolingaround">KR</a>, modified by me. You need to check out his github, like really.
+        </i>
+    </p>
+</sub>
