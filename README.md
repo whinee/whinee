@@ -26,7 +26,7 @@
 </h4>
 <h4 align="center">
     <i>
-        Discord Bots ∙ REST APIs(?) ∙ Web scrapers(???)
+        REST APIs(?) ∙ Web scrapers(???)
     </i>
 </h4>
 
