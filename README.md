@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-    <strong>Discord:</strong> <a target="_blank" href="https://discord.com/users/867696753434951732">PEP-8 uncompliant one-liner#5135</a>
+    <strong>Discord:</strong> <a target="_blank" href="https://discord.com/users/867696753434951732">whi_ne#5135</a>
 </p>
 
 <hr>
