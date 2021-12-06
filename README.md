@@ -34,6 +34,46 @@
     </i>
 </h4>
 
+<hr>
+
+<h3 align="center">
+    Projects
+</h3>
+
+<div align="center">
+    <a href="https://github.com/MangDL/MangDL" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MangDL&repo=MangDL&theme=radical" alt="mangdl"/>
+    </a>
+</div>
+
+<hr>
+
+<h3 align="center">
+    Visitors
+</h3>
+<div align="center">
+<img src="https://count.getloli.com/get/@whinee?theme=rule34" alt="counter"/>
+</div>
+<sub>
+    <p align="center">
+        <i>
+            NOTE: Visitors counted since 6 December 2021
+        </i>
+    </p>
+</sub>
+
+<h3 align="center">
+    Statistics
+</h3>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whinee&layout=compact&theme=radical" alt="stats"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=whinee&count_private=true&show_icons=true&theme=radical" alt="stats"/>
+</div>
+
+<hr>
+
 <sub>
     <p align="center">
         <i>
