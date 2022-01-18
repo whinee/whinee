@@ -18,12 +18,12 @@
 
 <h4 align="center">
     <i>
-        Python (and only python)
+        Python and JS
     </i>
 </h4>
 <h4 align="center">
     <i>
-        REST APIs(?) ∙ Web scrapers(???)
+        REST APIs(?) ∙ Web scrapers(???) ∙ Websites(?????????)
     </i>
 </h4>
 
