@@ -11,7 +11,7 @@
     </i>
 </h3>
 <p align="center">
-    <a href="https://discord.gg/JbAtUxGcJZ"><img src="https://discord.c99.nl/widget/theme-1/867696753434951732.png" height="80px"></a>
+    <a href="https://discord.gg/JbAtUxGcJZ"><img src="https://discord.c99.nl/widget/theme-3/867696753434951732.png" height="80px"></a>
 </p>
 
 <hr>
