@@ -42,6 +42,15 @@
 <hr>
 
 <h3 align="center">
+    Skills
+</h3>
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=py,workers,js,css,html,md,git" />
+	</a>
+</p>
+
+<h3 align="center">
     Visitors
 </h3>
 <div align="center">
