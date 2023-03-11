@@ -11,7 +11,7 @@
     </i>
 </h3>
 <p align="center">
-    <a href="https://discord.gg/JbAtUxGcJZ"><img src="https://discord.c99.nl/widget/theme-3/867696753434951732.png" height="80px"></a>
+    <a href="https://discord.gg/JbAtUxGcJZ"><img src="https://discord.c99.nl/widget/theme-3/848092597822160907.png" height="80px"></a>
 </p>
 
 <hr>
@@ -34,8 +34,8 @@
 </h3>
 
 <div align="center">
-    <a href="https://github.com/MangDL/MangDL" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MangDL&repo=MangDL&theme=radical" alt="mangdl"/>
+    <a href="https://github.com/whinee/md2pdf" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=whinee&repo=md2pdf&theme=radical" alt="md2pdf"/>
     </a>
 </div>
 
