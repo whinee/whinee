@@ -30,7 +30,7 @@
 <hr>
 
 <h3 align="center">
-    Projects
+    Projects (That I Am Actually Proud Of)
 </h3>
 
 <div align="center">
