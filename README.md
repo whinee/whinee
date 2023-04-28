@@ -13,6 +13,11 @@
 <p align="center">
     <a href="https://discord.gg/JbAtUxGcJZ"><img src="https://discord.c99.nl/widget/theme-3/848092597822160907.png" height="80px"></a>
 </p>
+<p align="center">
+    <a target="_blank" href="https://discord.com/invite/JbAtUxGcJZ">
+        <img src="https://invidget.switchblade.xyz/JbAtUxGcJZ?color[background]=00000000&color[serverName]=d64f50&color[header]=9383e2&color[presenceText]=684fe2">
+    </a>
+</p>
 
 <hr>
 
