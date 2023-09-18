@@ -1,5 +1,5 @@
 <h1 align="center">
-    whitespace_negative (whi_ne)
+    Lyra (whine)
 </h1>
 <p align="center">
     Yet another <i><s>catfishing highschooler</s></i> aspirant programmer™
