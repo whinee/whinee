@@ -1,22 +1,8 @@
 <h1 align="center">
-    Lyra (whine)
+    whine
 </h1>
 <p align="center">
-    Yet another <i><s>catfishing highschooler</s></i> aspirant programmer™
-</p>
-
-<h3 align="center">
-    <i>
-        Professional stackoverflow scavenger
-    </i>
-</h3>
-<p align="center">
-    <a href="https://discord.gg/JbAtUxGcJZ"><img src="https://discord.c99.nl/widget/theme-3/848092597822160907.png" height="80px"></a>
-</p>
-<p align="center">
-    <a target="_blank" href="https://discord.com/invite/JbAtUxGcJZ">
-        <img src="https://invidget.switchblade.xyz/JbAtUxGcJZ?color[background]=00000000&color[serverName]=d64f50&color[header]=9383e2&color[presenceText]=684fe2">
-    </a>
+    Yet another aspirant programmer™
 </p>
 
 <hr>
@@ -28,7 +14,7 @@
 </h4>
 <h4 align="center">
     <i>
-        REST APIs(?) ∙ Web scrapers(???) ∙ Websites(?????????)
+        REST APIs ∙ Web scrapers ∙ Websites
     </i>
 </h4>
 
@@ -78,13 +64,3 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=whinee&count_private=true&show_icons=true&theme=radical" alt="stats"/>
 </div>
-
-<hr>
-
-<sub>
-    <p align="center">
-        <i>
-            Made by <a target="_blank" href="https://github.com/justfoolingaround">KR</a>, modified by me. You need to check out his github, like really.
-        </i>
-    </p>
-</sub>
