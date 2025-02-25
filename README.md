@@ -5,6 +5,9 @@
     Yet another aspirant programmer™
 </p>
 
+> [!NOTE]
+> If you're here from my resume/CV, yes, this is me. You can contact me either from whinyaan (@) gmail (.) com, the e-mail from which I've sent the resume/CV from, or the one that is indicated in the resume/CV itself. Either way is fine. Thank you! Have fun browsing my projects :3
+
 <hr>
 
 <h4 align="center">
