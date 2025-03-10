@@ -33,6 +33,14 @@
 </h3>
 
 <div align="center">
+    <a href="https://github.com/whinee/whines_crossfiledialog" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=whinee&repo=whines_crossfiledialog&theme=radical" alt="whines_crossfiledialog"/>
+    </a>
+    <a href="https://github.com/whinee/AllTheUtils" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=whinee&repo=AllTheUtils&theme=radical" alt="AllTheUtils"/>
+    </a>
+</div>
+<div align="center">
     <a href="https://github.com/whinee/md2pdf" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=whinee&repo=md2pdf&theme=radical" alt="md2pdf"/>
     </a>
