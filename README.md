@@ -1,3 +1,8 @@
+> [!WARNING]  
+> This user has been identified as intellectually challenged. Please be patient when interacting with **whinee**.
+>
+>  **Learn more about GitHub's commitment to fostering an inclusive and supportive online community [here](https://learn-with.github.io/our-commitment-to-a-supportive-community).**
+
 <h1 align="center">
     whine
 </h1>
@@ -7,11 +12,6 @@
 
 > [!NOTE]
 > If you're here from my resume/CV, yes, this is me. You can contact me either from whinyaan (@) gmail (.) com, the e-mail from which I've sent the resume/CV from, or the one that is indicated in the resume/CV itself. Either way is fine. Thank you! Have fun browsing my projects :3
-
-> [!WARNING]  
-> This user has been identified as intellectually challenged. Please be patient when interacting with **whinee**.
->
->  **Learn more about GitHub's commitment to fostering an inclusive and supportive online community [here](https://learn-with.github.io/our-commitment-to-a-supportive-community).**
 
 <hr>
 
