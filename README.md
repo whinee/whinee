@@ -61,7 +61,7 @@
     Visitors
 </h3>
 <div align="center">
-<img src="https://count.getloli.com/get/@whinee?theme=rule34" alt="counter"/>
+<img src="https://count.getloli.com/@whinee?name=whinee&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=0" alt="counter"/>
 </div>
 <sub>
     <p align="center">
