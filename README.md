@@ -4,7 +4,7 @@
 >  **Learn more about GitHub's commitment to fostering an inclusive and supportive online community [here](https://learn-with.github.io/our-commitment-to-a-supportive-community).**
 
 <h1 align="center">
-    whine
+    Lyra Phasma
 </h1>
 <p align="center">
     Yet another aspirant programmer™
@@ -12,6 +12,24 @@
 
 > [!NOTE]
 > If you're here from my resume/CV, yes, this is me. You can contact me either from whinyaan (@) gmail (.) com, the e-mail from which I've sent the resume/CV from, or the one that is indicated in the resume/CV itself. Either way is fine. Thank you! Have fun browsing my projects :3
+
+<hr>
+
+<h2 align="center">
+    Why Computer Science?
+</h2>
+
+I already had 2 years of programming experience before getting to university. My passion is computer automation.
+
+<hr>
+
+<h2 align="center">
+    Hobbies
+</h2>
+
+- Programming
+- System Administration
+- Writing Poetry, Literary Analysis, Books
 
 <hr>
 
@@ -61,7 +79,7 @@
     Visitors
 </h3>
 <div align="center">
-<img src="https://count.getloli.com/@whinee?name=whinee&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="counter"/>
+<img src="https://count.getloli.com/@whinee?name=whinee&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=0.75&pixelated=1&darkmode=0" alt="counter"/>
 </div>
 <sub>
     <p align="center">
