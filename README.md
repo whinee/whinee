@@ -28,7 +28,7 @@
 
 <hr>
 
-<h3 align="center">
+<!-- <h3 align="center">
     Projects (That I Am Actually Proud Of)
 </h3>
 
@@ -55,13 +55,13 @@
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=py,workers,js,css,html,md,git" />
 	</a>
-</p>
+</p> -->
 
 <h3 align="center">
     Visitors
 </h3>
 <div align="center">
-<img src="https://count.getloli.com/@whinee?name=whinee&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=0" alt="counter"/>
+<img src="https://count.getloli.com/@whinee?name=whinee&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="counter"/>
 </div>
 <sub>
     <p align="center">
@@ -71,7 +71,7 @@
     </p>
 </sub>
 
-<h3 align="center">
+<!-- <h3 align="center">
     Statistics
 </h3>
 <div align="center">
@@ -79,4 +79,4 @@
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=whinee&count_private=true&show_icons=true&theme=radical" alt="stats"/>
-</div>
+</div> -->
